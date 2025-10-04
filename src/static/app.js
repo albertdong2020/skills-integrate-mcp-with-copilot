@@ -1,4 +1,3 @@
-
 document.addEventListener("DOMContentLoaded", () => {
   const activitiesList = document.getElementById("activities-list");
   const messageDiv = document.getElementById("message");
